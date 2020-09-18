@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcaltmann/typescript.git"
+    "url": "git+https://github.com/marcaltmann/typescript-tests.git"
   },
   "author": "Marc Altmann",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcaltmann/typescript/issues"
+    "url": "https://github.com/marcaltmann/typescript-tests/issues"
   },
-  "homepage": "https://github.com/marcaltmann/typescript#readme",
+  "homepage": "https://github.com/marcaltmann/typescript-tests#readme",
   "devDependencies": {
     "@types/node": "^14.11.1",
     "tslint": "^6.1.3",
